@@ -1,7 +1,7 @@
 # Read Me First
 <h2>Tech Stack In Project</h2>
-- Java version 17
-- Spring Boot 3.1.4
+* Java version 17
+* Spring Boot 3.1.4
 - Maven 3.8.7
 - Postgres SQL
 - Swagger-UI
