@@ -9,10 +9,10 @@
 - Hibernate
 
 <h2>List Service</h2>
- - http://localhost:8081/v1/gpay/getSessionKey?custId=?&trxType=?
- - http://localhost:8081/v1/gpay/refund
- - http://localhost:8081/v1/gpay/transfer
- - http://localhost:8081/v1/gpay/topup
+http://localhost:8081/v1/gpay/getSessionKey?custId=?&trxType=?
+http://localhost:8081/v1/gpay/refund
+http://localhost:8081/v1/gpay/transfer
+http://localhost:8081/v1/gpay/topup
 
 <h2>Intallation And Run</h2>
 - Pastikan Config Database di application.properties sesuai , di dalam project ini menggunakan user database "postgres"
